@@ -17,10 +17,12 @@
 
 html, body {
 	font-family: 'Raleway', sans-serif;
+	background: #001935; 
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, p {
 	font-weight: 600;
+	color: #fff;
 }
 
 a {
@@ -36,7 +38,6 @@ a {
 	height: 100%;
 	background: #001935;
 	padding: 7em 0 0 0;
-	border-right: 1px solid #b8e2fe;
 	color: #fff;
 
 	ul {
@@ -45,8 +46,8 @@ a {
 		padding-right: 3em;
 		.category {
 			font-weight: 900;
-			font-size: 2.0em;
-			text-transform: uppercase;
+			font-size: 2.3em;
+			text-transform: lowercase;
 			color: #22747b;
 		}
 		li {
@@ -100,9 +101,10 @@ a {
 
 #main_content {
 	margin-left: 200px;
+	background: #001935; 
 	#header {
 		padding: 1.2em 3.5em;
-		border-bottom: 1px solid #b8e2fe;
+		border-bottom: 0.1px solid #b8e2fe;
 		background: #001935;
 		color: #FFF;
 		p {
@@ -125,13 +127,19 @@ a {
 	.post_wrapper {
 		padding: 1.9em;
 		border-bottom: 1px solid #d6dce0;
+		border-radius: 1rem;
+		background: #fff;
+		height: 100px;
+  		width: 40%;
+  		margin: 20px auto;
+
 		.title {
 			margin: 2px;
 			a {
 				font-weight: 500;
 				text-decoration: none;
 				color: #001935;
-				font-size: 1.2em;
+				font-size: 1em;
 				&:hover {
 					color: #529FCD;
 				}
@@ -143,7 +151,8 @@ a {
 		}
 		.body {
 			color: #d3d3d3;
-			margin: .5em 0 0 0;
+			margin: 1em 0 0 0;
+			font-size: 12px;
 		}
 	}
 	#post_content {
