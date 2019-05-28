@@ -1,5 +1,7 @@
 # Tumblr clone
 
+![](images/tumblr.JPG)
+
 Web Application features include:  
 
 * Static about user page.
@@ -8,3 +10,4 @@ Web Application features include:
 * Ability to Create, edit and delete comments.
 * User model with ability to sign up and use as own account.
 * User who is just a reader without account.  
+
