@@ -1,6 +1,6 @@
 # Tumblr clone
 
-![](images/tumblr.JPG)
+![](app/assets/images/tumblr.JPG)
 
 Web Application features include:  
 
