@@ -9,5 +9,14 @@ Web Application features include:
 * Ability to Create, edit and delete post.
 * Ability to Create, edit and delete comments.
 * User model with ability to sign up and use as own account.
-* User who is just a reader without account.  
+* User who is just a reader without account.
+
+Demo Website: 
+
+Login: 
+
+* Uname: demo@noemail.com
+
+* Pwd: password111
+
 
