@@ -21,4 +21,5 @@ Login:
 
 IMPORTANT
 
-* Please stop posting inappropriate post through this project. It is open for people who truly want to see the functionailty of it. 
+* Please stop posting inappropriate post through this project. It is open for people who truly want to see the functionality of it. Please 
+be respectful. 
